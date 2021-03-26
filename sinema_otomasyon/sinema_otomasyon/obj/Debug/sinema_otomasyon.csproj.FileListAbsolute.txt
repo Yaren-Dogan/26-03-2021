@@ -1,0 +1,32 @@
+C:\Users\Talha\Desktop\Sinema Otomasyonu\sinema_otomasyon\sinema_otomasyon\bin\Debug\sinema_otomasyon.exe.config
+C:\Users\Talha\Desktop\Sinema Otomasyonu\sinema_otomasyon\sinema_otomasyon\bin\Debug\sinema_otomasyon.exe
+C:\Users\Talha\Desktop\Sinema Otomasyonu\sinema_otomasyon\sinema_otomasyon\bin\Debug\sinema_otomasyon.pdb
+C:\Users\Talha\Desktop\Sinema Otomasyonu\sinema_otomasyon\sinema_otomasyon\obj\Debug\sinema_otomasyon.csprojAssemblyReference.cache
+C:\Users\Talha\Desktop\Sinema Otomasyonu\sinema_otomasyon\sinema_otomasyon\obj\Debug\sinema_otomasyon.Form1.resources
+C:\Users\Talha\Desktop\Sinema Otomasyonu\sinema_otomasyon\sinema_otomasyon\obj\Debug\sinema_otomasyon.Properties.Resources.resources
+C:\Users\Talha\Desktop\Sinema Otomasyonu\sinema_otomasyon\sinema_otomasyon\obj\Debug\sinema_otomasyon.csproj.GenerateResource.cache
+C:\Users\Talha\Desktop\Sinema Otomasyonu\sinema_otomasyon\sinema_otomasyon\obj\Debug\sinema_otomasyon.csproj.CoreCompileInputs.cache
+C:\Users\Talha\Desktop\Sinema Otomasyonu\sinema_otomasyon\sinema_otomasyon\obj\Debug\sinema_otomasyon.exe
+C:\Users\Talha\Desktop\Sinema Otomasyonu\sinema_otomasyon\sinema_otomasyon\obj\Debug\sinema_otomasyon.pdb
+C:\Users\Talha\Desktop\sinema-otomasyon\sinema_otomasyon\sinema_otomasyon\bin\Debug\sinema_otomasyon.exe.config
+C:\Users\Talha\Desktop\sinema-otomasyon\sinema_otomasyon\sinema_otomasyon\bin\Debug\sinema_otomasyon.exe
+C:\Users\Talha\Desktop\sinema-otomasyon\sinema_otomasyon\sinema_otomasyon\bin\Debug\sinema_otomasyon.pdb
+C:\Users\Talha\Desktop\sinema-otomasyon\sinema_otomasyon\sinema_otomasyon\obj\Debug\sinema_otomasyon.csprojAssemblyReference.cache
+C:\Users\Talha\Desktop\sinema-otomasyon\sinema_otomasyon\sinema_otomasyon\obj\Debug\sinema_otomasyon.Form1.resources
+C:\Users\Talha\Desktop\sinema-otomasyon\sinema_otomasyon\sinema_otomasyon\obj\Debug\sinema_otomasyon.Properties.Resources.resources
+C:\Users\Talha\Desktop\sinema-otomasyon\sinema_otomasyon\sinema_otomasyon\obj\Debug\sinema_otomasyon.csproj.GenerateResource.cache
+C:\Users\Talha\Desktop\sinema-otomasyon\sinema_otomasyon\sinema_otomasyon\obj\Debug\sinema_otomasyon.csproj.CoreCompileInputs.cache
+C:\Users\Talha\Desktop\sinema-otomasyon\sinema_otomasyon\sinema_otomasyon\obj\Debug\sinema_otomasyon.exe
+C:\Users\Talha\Desktop\sinema-otomasyon\sinema_otomasyon\sinema_otomasyon\obj\Debug\sinema_otomasyon.pdb
+C:\Users\Talha\Desktop\Bilgisayar Programcılığı\BaharDonemi2.sınıf\Sistem Analizi\Dosyalar\sinema_otomasyon\sinema_otomasyon\bin\Debug\sinema_otomasyon.exe.config
+C:\Users\Talha\Desktop\Bilgisayar Programcılığı\BaharDonemi2.sınıf\Sistem Analizi\Dosyalar\sinema_otomasyon\sinema_otomasyon\bin\Debug\sinema_otomasyon.exe
+C:\Users\Talha\Desktop\Bilgisayar Programcılığı\BaharDonemi2.sınıf\Sistem Analizi\Dosyalar\sinema_otomasyon\sinema_otomasyon\bin\Debug\sinema_otomasyon.pdb
+C:\Users\Talha\Desktop\Bilgisayar Programcılığı\BaharDonemi2.sınıf\Sistem Analizi\Dosyalar\sinema_otomasyon\sinema_otomasyon\obj\Debug\sinema_otomasyon.csprojAssemblyReference.cache
+C:\Users\Talha\Desktop\Bilgisayar Programcılığı\BaharDonemi2.sınıf\Sistem Analizi\Dosyalar\sinema_otomasyon\sinema_otomasyon\obj\Debug\sinema_otomasyon.Form1.resources
+C:\Users\Talha\Desktop\Bilgisayar Programcılığı\BaharDonemi2.sınıf\Sistem Analizi\Dosyalar\sinema_otomasyon\sinema_otomasyon\obj\Debug\sinema_otomasyon.Form2.resources
+C:\Users\Talha\Desktop\Bilgisayar Programcılığı\BaharDonemi2.sınıf\Sistem Analizi\Dosyalar\sinema_otomasyon\sinema_otomasyon\obj\Debug\sinema_otomasyon.Properties.Resources.resources
+C:\Users\Talha\Desktop\Bilgisayar Programcılığı\BaharDonemi2.sınıf\Sistem Analizi\Dosyalar\sinema_otomasyon\sinema_otomasyon\obj\Debug\sinema_otomasyon.csproj.GenerateResource.cache
+C:\Users\Talha\Desktop\Bilgisayar Programcılığı\BaharDonemi2.sınıf\Sistem Analizi\Dosyalar\sinema_otomasyon\sinema_otomasyon\obj\Debug\sinema_otomasyon.csproj.CoreCompileInputs.cache
+C:\Users\Talha\Desktop\Bilgisayar Programcılığı\BaharDonemi2.sınıf\Sistem Analizi\Dosyalar\sinema_otomasyon\sinema_otomasyon\obj\Debug\sinema_otomasyon.exe
+C:\Users\Talha\Desktop\Bilgisayar Programcılığı\BaharDonemi2.sınıf\Sistem Analizi\Dosyalar\sinema_otomasyon\sinema_otomasyon\obj\Debug\sinema_otomasyon.pdb
+C:\Users\Talha\Desktop\Bilgisayar Programcılığı\BaharDonemi2.sınıf\Sistem Analizi\Dosyalar\sinema_otomasyon\sinema_otomasyon\obj\Debug\sinema_otomasyon.Form3.resources
